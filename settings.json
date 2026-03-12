@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Alelagei.aternos.me",
+    "ip": "Alelagei.aternos.me:48983",
     "port": 48983,
     "version": "",
     "try-creative": false
